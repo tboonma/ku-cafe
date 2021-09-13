@@ -1,8 +1,11 @@
 # KU Cafe Menu
+
 [Breakfast](#breakfast)    
+[Lunch](#lunch)    
 [Dinner](#dinner)    
-[Night Food](#Night-Food)    
-[Beverages](#Beverages)    
+[Night Food](#Night-Food)        
+[Beverages](#Beverages)       
+
 
 
 
@@ -16,7 +19,16 @@
 | Gai yang                        | 35 Bt |
 | Khao Rad Gaeng                  | 45 Bt |
 
+
 ## Lunch 
+| Item              | Price |
+|:------------------|-------:|
+| Steak             | 65 Bt |
+| Fried chicken     | 45 Bt |
+| Salad             | 30 Bt |
+| Noodle            | 35 Bt |
+| Chicken rice      | 45 Bt |
+| Soup              | 5 Bt |
 
 
 ## Dinner
