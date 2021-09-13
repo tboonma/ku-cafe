@@ -1,10 +1,6 @@
 # KU Cafe Menu
 
-[Breakfast](#breakfast)    
-[Lunch](#lunch)    
-[Dinner](#dinner)    
-[Night Food](#Night-Food)        
-[Beverages](#Beverages)       
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#Night-Food) | [Beverages](#Beverages)       
 
 
 
