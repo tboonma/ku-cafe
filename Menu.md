@@ -3,9 +3,14 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                            | Price |
+|:--------------------------------|------:|
+| Joke                            | 35 Bt |
+| Tom luad moo                    | 45 Bt |
+| Khao kai jeow                   | 40 Bt |
+| Gai yang                        | 35 Bt |
+| Khao Rad Gaeng                  | 45 Bt |
+
 
 ## Lunch 
 
