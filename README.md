@@ -9,4 +9,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Taweesap Inliang | Lunch menu | noomtaweesap |
+| Taweesap Inliang | Lunch menu | @noomtaweesap |
