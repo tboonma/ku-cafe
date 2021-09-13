@@ -1,5 +1,5 @@
 # KU Cafe Menu
-
+์[Night Food](#Night-Food)
 
 [Beverages](#Beverages)
 [Dinner](#dinner)
@@ -21,6 +21,13 @@
 | Salad                           | 100 Bt |
 
 ## Night Food
+| Item                            | Price |
+|:--------------------------------|------:|
+| Lasagne                         | 50 Bt |
+| Miso Ramen                      | 65 Bt |
+| Cheese Burger                   | 100 Bt |
+| Spaghetti                       | 120 Bt |
+| Spicy chicken wing              | 80 Bt |
 
 
 ## Beverages
