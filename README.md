@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Lunch Menu](Menu#Lunch)
+[Lunch Menu](Menu.md#Lunch)
 
 ## About Us
 
