@@ -14,6 +14,13 @@
 
 
 ## Night Food
+| Item                            | Price |
+|:--------------------------------|------:|
+| Lasagne                         | 50 Bt |
+| Miso Ramen                      | 65 Bt |
+| Cheese Burger                   | 100 Bt |
+| Spaghetti                       | 120 Bt |
+| Spicy chicken wing              | 80 Bt |
 
 
 ## Beverages
