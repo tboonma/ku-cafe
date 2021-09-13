@@ -1,12 +1,16 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-
+ 
+[Beverages](Menu.md#Beverages)
 [Night-food](Menu.md#Night-Food)
+[Dinner](Menu.md#dinner)
 
 
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Tanin Pewluangsawat | Night-food | TaninDean |
+| Tawan     | Beverages | @tboonma        |
+| Sujinunt | Dinner menu | @sujinunt |
+| Tanin Pewluangsawat | Night-food | @TaninDean |
