@@ -9,22 +9,22 @@
 
 | Item                            | Price |
 |:--------------------------------|------:|
-| Joke                            | 35 Bt |
-| Tom luad moo                    | 45 Bt |
-| Khao kai jeow                   | 40 Bt |
 | Gai yang                        | 35 Bt |
+| Joke                            | 35 Bt |
+| Khao kai jeow                   | 40 Bt |
 | Khao Rad Gaeng                  | 45 Bt |
+| Tom luad moo                    | 45 Bt |
 
 
 ## Lunch 
 | Item              | Price |
 |:------------------|-------:|
-| Steak             | 65 Bt |
-| Fried chicken     | 45 Bt |
-| Salad             | 30 Bt |
-| Noodle            | 35 Bt |
 | Chicken rice      | 45 Bt |
+| Fried chicken     | 45 Bt |
+| Noodle            | 35 Bt |
+| Salad             | 30 Bt |
 | Soup              | 5 Bt |
+| Steak             | 65 Bt |
 
 
 ## Dinner
@@ -39,9 +39,9 @@
 ## Night Food
 | Item                            | Price |
 |:--------------------------------|------:|
+| Cheese Burger                   | 100 Bt |
 | Lasagne                         | 50 Bt |
 | Miso Ramen                      | 65 Bt |
-| Cheese Burger                   | 100 Bt |
 | Spaghetti                       | 120 Bt |
 | Spicy chicken wing              | 80 Bt |
 
@@ -50,10 +50,10 @@
 | Item                            |  Price  |
 |:--------------------------------|--------:|
 | Coca Cola                       | 15 Bt |
-| Iced Green tea                  | 40 Bt |
-| Mineral water, 1000 ml          | 20 Bt |
 | Heineken, 330 ml                | 50 Bt |
+| Iced Green tea                  | 40 Bt |
 | Kratom water                    | 90 Bt |
+| Mineral water, 1000 ml          | 20 Bt |
 
 
 ---
