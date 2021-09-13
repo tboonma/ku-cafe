@@ -1,12 +1,23 @@
 # KU Cafe Menu
-[Lunch menu](#lunch-menu)    
 
-[Beverages](#Beverages)    
+[Breakfast](#breakfast)    
+[Lunch](#lunch)    
 [Dinner](#dinner)    
+[Night Food](#Night-Food)        
+[Beverages](#Beverages)       
+
+
 
 
 ## Breakfast
 
+| Item                            | Price |
+|:--------------------------------|------:|
+| Joke                            | 35 Bt |
+| Tom luad moo                    | 45 Bt |
+| Khao kai jeow                   | 40 Bt |
+| Gai yang                        | 35 Bt |
+| Khao Rad Gaeng                  | 45 Bt |
 
 
 ## Lunch 
@@ -30,6 +41,13 @@
 | Salad                           | 100 Bt |
 
 ## Night Food
+| Item                            | Price |
+|:--------------------------------|------:|
+| Lasagne                         | 50 Bt |
+| Miso Ramen                      | 65 Bt |
+| Cheese Burger                   | 100 Bt |
+| Spaghetti                       | 120 Bt |
+| Spicy chicken wing              | 80 Bt |
 
 
 ## Beverages
