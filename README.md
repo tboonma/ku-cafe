@@ -9,4 +9,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Tanin | Night-food | TaninDean |
+| Tanin Pewluangsawat | Night-food | TaninDean |
